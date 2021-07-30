@@ -6,7 +6,7 @@ BinaryQuill was created and is maintained by using GIMP to draw characters and F
 
 The project is layed out as follows: BinaryQuill.ttf is the font in ttf format; raster.xcf is the GIMP source file, it contains 4 layers: "Background" which is a pure white layer, "G" which holds the drawing guides, "C" which holds the characters themselves, and "X" which contains a red scribble over any characters that have been replaced with newer varients; And source.sfd is the FontForge source file. All files in /showcase are images to showcase various parts of this font, many of which are utilized by this README file.
 
-![An image showing all of the characters](./assets/allchars.png)
+<img src="./assets/allchars.png" alt="An image showing all of the characters" width="50%"/>
 
 # Changelog:
 
