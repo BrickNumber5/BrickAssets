@@ -1,4 +1,4 @@
-# BinaryQuill
+![Binary Quill](./assets/banner.png)
 
 BinaryQuill is a handwritten monospace font largely intended for the purpose of rendering code with a handwritten aesthetic.
 
