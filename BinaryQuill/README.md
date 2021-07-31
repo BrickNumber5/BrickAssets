@@ -10,7 +10,7 @@ The project is layed out as follows: BinaryQuill.ttf is the font in ttf format; 
 
 # Changelog:
 
-v001.002 | Updated the following characters: "=", ":", ";", "!", "~", "i", "j", and ",". "=" for less shaky lines, ":" and ";" to better align with other characters, "!" to better seperate the dot from the line, "~" to make the curve more pronounced and thereby easier to distinguish from "-", "i" and "j" to lower their dots slightly to align with the other lowercase letters more effectivly, and "," to change the tail slightly.
+v001.002 | Updated the following characters: "=", ":", ";", "!", "\~", "i", "j", and ",". "=" for less shaky lines, ":" and ";" to better align with other characters, "!" to better seperate the dot from the line, "~" to make the curve more pronounced and thereby easier to distinguish from "\-", "i" and "j" to lower their dots slightly to align with the other lowercase letters more effectivly, and "," to change the tail slightly.
 
 <img src="./assets/v001.002-changes.png" alt="Changes between the previous version and current version" width="50%"/>
 
